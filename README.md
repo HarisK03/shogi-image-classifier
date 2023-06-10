@@ -1,0 +1,1 @@
+# shogi-image-classifier
