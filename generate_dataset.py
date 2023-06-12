@@ -15,7 +15,6 @@ def generate_dataset(n: int = 10) -> None:
     """
     Generate the shogi boards and tiles for learning.
     """
-
     # load cookies
     cookies_path = 'data/cookies.csv'
     boards_path = 'data/boards/'
